@@ -9,6 +9,12 @@
                 ]
             },
             {
+                "geo": "EU",
+                "urls": [
+                    "eu.minerspool.cc:5099"
+                ]
+            },
+            {
                 "geo": "US",
                 "urls": [
                     "mine-btcz-na.equipool.1ds.us:50063"
@@ -19,7 +25,61 @@
                 "urls": [
                     "mine-btcz-asia.equipool.1ds.us:50063"
                 ]
-            }
+            },
+    {
+        "coin": "HUSH",
+        "servers": [
+            {
+                "geo": "EU",
+                "urls": [
+                    "eu.minerspool.cc:4010"
+                ]
+            },
+    {
+        "coin": "BTCP",
+        "servers": [
+            {
+                "geo": "EU",
+                "urls": [
+                    "eu.minerspool.cc:8040"
+                ]
+            },
+   {
+        "coin": "LTZ",
+        "servers": [
+            {
+                "geo": "EU",
+                "urls": [
+                    "eu.minerspool.cc:7050"
+                ]
+            },
+   {
+        "coin": "VOT",
+        "servers": [
+            {
+                "geo": "EU",
+                "urls": [
+                    "eu.minerspool.cc:2042"
+                ]
+            },
+   {
+        "coin": "BUCK",
+        "servers": [
+            {
+                "geo": "EU",
+                "urls": [
+                    "eu.minerspool.cc:7991"
+                ]
+            },          
+   {
+        "coin": "ZEN",
+        "servers": [
+            {
+                "geo": "EU",
+                "urls": [
+                    "eu.minerspool.cc:6043"
+                ]
+            },   
         ],
         "miners": {
             "ewbf": {
